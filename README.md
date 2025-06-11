@@ -1,5 +1,23 @@
-# 💫 About Me:
-🔭 I’m currently working on an AI-powered data visualization website<br>👯 I’m looking to collaborate on Full-stack apps<br>🤝 I’m looking for help with converting complex chart types into KPIs, tables, and alternate visualizations<br>🌱 I’m currently learning advanced Linux<br>💬 Ask me about structuring real-world projects using Full stack<br>
+<h1 align="center">Hi 👋, I'm Adhik</h1>
+<h3 align="center">A passionate Full stack developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhik-6&label=Profile%20views&color=0e75b6&style=flat" alt="adhik-6" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adhik-6" alt="adhik-6" /></a> </p>
+
+- 🔭 I’m currently working on **an AI-powered data visualization website**
+
+- 🌱 I’m currently learning **advanced Linux**
+
+- 👯 I’m looking to collaborate on **building Full-stack websites**
+
+- 🤝 I’m looking for help with **converting complex chart types into KPIs, tables, and alternate visualizations**
+
+- 💬 Ask me about **structuring real-world projects using Full stack**
+
+- 📫 How to reach me **adhik.m10a@gmail.com**
+
+- ⚡ Fun fact **I'm lazy but I never fail to meet deadlines**
 
 
 ## 🌐 Socials:
