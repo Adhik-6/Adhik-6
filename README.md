@@ -5,7 +5,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=089CFF&center=true&width=600&height=60&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Adhik" alt="Typing SVG" />
 </h1>
-<h3 align="left">A passionate Full stack web developer</h3> 
+<h3 align="left">I'm a passionate Full stack web developer</h3> 
 
 - 🔭 I’m currently working on **an AI-powered data visualization website**
 
@@ -38,7 +38,7 @@
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Adhik-6&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5)](https://github.com/Adhik-6/github-profile-trophy)
 
-## My Contribution Graph
+## 🎮 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adhik-6/Adhik-6/output/pacman-contribution-graph-dark.svg">
