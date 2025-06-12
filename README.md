@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=32&pause=1000&color=089CFF&center=true&width=600&height=60&lines=Hey+there+%F0%9F%91%8B%F0%9F%8F%BB!;I'm+Adhik" alt="Typing SVG" />
 </h1>
 <h3 align="left">I'm a passionate Full stack web developer</h3> 
+<img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif" alt="Programming"/>
 
 - 🔭 I’m currently working on **an AI-powered data visualization website**
 
