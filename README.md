@@ -8,13 +8,13 @@
 <h3 align="left">I'm a passionate Full stack web developer</h3> 
 <img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif" alt="Programming"/>
 
-- 🔭 I’m currently working on **an AI-powered data visualization website**
+- 🔭 I’m currently working on **image to 3D model conversion**
 
-- 🌱 I’m currently learning **advanced Linux**
+- 🌱 Exploring **data-driven applications** and **visualization techniques**
 
 - 👯 I’m looking to collaborate on **building Full-stack websites**
 
-- 🤝 I’m looking for help with **converting complex chart types into KPIs, tables, and alternate visualizations**
+- 🚀 Passionate about **turning ideas into scalable solutions**
 
 - 💬 Ask me about **structuring real-world projects using Full stack**
 
@@ -48,7 +48,7 @@
 </picture>
 
 ## 🧑🏻‍💻 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/__B14Nk__?theme=radical&font=Satisfy&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Adhik-6?theme=radical&font=Satisfy&ext=heatmap)
 
 ## 🫱🏼‍🫲🏻 Support
 <p><a href="https://www.buymeacoffee.com/adhikm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhikm" /></a></p><br><br>
