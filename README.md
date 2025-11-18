@@ -48,7 +48,7 @@
 </picture>
 
 ## 🧑🏻‍💻 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Adhik-6?theme=radical&font=Satisfy&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Adhik-6?theme=radical&font=Satisfy)
 
 ## 🫱🏼‍🫲🏻 Support
 <p><a href="https://www.buymeacoffee.com/adhikm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adhikm" /></a></p><br><br>
