@@ -1,0 +1,37 @@
+name: github metrics
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+  # Don't add a `push` trigger here: metrics commits its SVGs back to the repo,
+  # so it would re-trigger itself in a loop.
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Repositories traffic
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_traffic: yes
+          config_timezone: Asia/Kolkata
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+          config_timezone: Asia/Kolkata
