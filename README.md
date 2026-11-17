@@ -8,16 +8,11 @@
 <!-- <h3 align="left">I'm a passionate Full stack web developer</h3>  -->
 <img align="right" src="https://i.makeagif.com/media/9-16-2016/mFg1NY.gif" alt="Programming"/>
 
-- 🔭 I’m currently working on **image to 3D model conversion**
-
-- 🌱 Exploring **data-driven applications** and **visualization techniques**
-
+- 🔭 I’m currently working on **SLM in mobile**
+- 🌱 Exploring **Cloud Computing** and **Data Structures**
 - 👯 I’m looking to collaborate on **building Full-stack websites**
-
 - 🚀 Passionate about **turning ideas into scalable solutions**
-
 - 💬 Ask me about **structuring real-world projects using Full stack**
-
 - ⚡ Fun fact **I'm lazy but I never fail to meet deadlines**
 
 ## 🌐 Socials
@@ -34,19 +29,23 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adhik-6&theme=midnight_purple&animation=draw)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adhik-6&theme=midnight_purple&animation=draw)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adhik-6&theme=midnight_purple&animation=draw" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adhik-6&theme=midnight_purple&animation=draw" alt="Repos per language" width="49%" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adhik-6&theme=midnight_purple&animation=draw)
-
-
-
-<!-- ✏️ END PASTE SLOT 1 -->
 
 ### 🧮 Repository Traffic
-<img src="./metrics.plugin.traffic.svg" alt="Repository traffic" />
+<table>
+  <tr>
+    <td style="border: 2px solid #089CFF;">
+      <img src="./metrics.plugin.traffic.svg" alt="Repository traffic" />
+    </td>
+  </tr>
+</table>
 
-### 🏆 Achievements
-<img src="./metrics.plugin.achievements.svg" alt="GitHub achievements" />
+<!-- ### 🏆 Achievements
+<img src="./metrics.plugin.achievements.svg" alt="GitHub achievements" /> -->
 
 ### 📌 Top projects
 <p align="center">
